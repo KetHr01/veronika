@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    background-color: rgb(209, 120, 226);
+    text-align: center;
+}
+footer{
+    background-color: rgb(230, 166, 219);
+    
+}
+img{
+    width: 150px;
+}
+main p{
+    background-color: rgb(216, 82, 182);
+}
+
+.lavanda{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    background-color: rgb(179, 89, 89);
+    text-align: center;
+}
+h3{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.roses{
+    display: flex;
+    height: 180px;
+    justify-content: center;
+}
+h4{
+    background-color: rgb(211, 71, 169);
+    text-align: center;
+}
+.tulips{
+   height: 150px;
+   display: flex;
+   justify-content: center;
+}
+.chamomile{
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
